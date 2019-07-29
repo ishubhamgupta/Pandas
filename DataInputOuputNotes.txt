@@ -1,0 +1,20 @@
+We will be working with
+CSV
+Excel
+HTML
+SQL
+
+conda install sqlalchemy
+conda install lxml
+conda install html5lib
+conda install BeautifulSoup4
+
+pip install sqlalchemy
+pip install lxml
+pip install html5lib
+pip install BeautifulSoup4
+
+
+for html data
+
+https://www.fdic.gov/bank/individual/failed/banklist.html

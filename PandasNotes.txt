@@ -18,8 +18,7 @@ Pandas is used for working on
 2. Dataframes
 3. Missing Data
 4. GroupBy
-5. Merging, Joining andConcatenating
+5. Merging, Joining and Concatenating
 6. Operations
 7. Data input and output
-
 
